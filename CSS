@@ -1,0 +1,91 @@
+CSS
+.nav-pills{
+  font-family:;
+  font-size: 30px;
+  margin-bottom:9%;
+}
+body{
+  background: url("https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=1387&q=80");
+  background-size:cover;
+  height:auto;
+  width:auto;
+  margin-top:;
+    font-family:Bungee;
+  color: #2EFEF7;
+}
+.pageOne{
+ 
+}
+h1{
+ font-size: 70px;
+  margin:0px;
+}
+.btn-default {
+  background-color: purple;
+  border-color: purple;
+  color:black;
+  font-size: 16px;
+  opacity:;
+}
+.box{
+  background-color:black;
+  opacity:.7;
+  padding: 15px;
+  padding-bottom:30px;
+  width:28%;
+  margin-left:auto;
+   margin-right:auto;
+  border-radius:20px
+}
+h2{
+  font-size: 50px;
+}
+.pageTwo{
+  padding: 30px 0px;
+  width:90%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:20px
+}
+.pageThree{
+ background-color: black;
+  opacity:.7;
+  padding: 15px;
+  width:90%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:20px
+}
+.image-sample{
+   height:300px;
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+}
+.row{
+  margin:10px;
+}
+.pageFour{
+  padding: 30px 0px;
+  width:90%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:20px
+}
+
+.box2{
+  background-color:black;
+  opacity:.7;
+  padding: 15px 15px 15px 15px;
+  width:40%;
+  margin-right:auto;
+  border-radius:20px
+}
+.box3{
+  background-color:black;
+  opacity:.7;
+  padding: 15px 15px 15px 15px;
+  width:40%;
+  margin-left:auto;
+  border-radius:20px
+}
